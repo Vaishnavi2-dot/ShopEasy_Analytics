@@ -208,12 +208,10 @@ The SQL files used to validate and clean this data can be found here: [01_valida
 
 This project was developed as part of a portfolio demonstrating end-to-end data analysis capabilities across SQL, Python, and Power BI.
 
-**Data Analyst:** Praveen M
+**Data Analyst:** Vaishnavi Rai
 
-**LinkedIn:** [Profile](https://www.linkedin.com/in/praveen-m-a6b0a1354)
+**LinkedIn:** [Profile](https://www.linkedin.com/in/vaishnavi-rai-370769314/)
 
-**Email:** praveenm2124@gmail.com
+**Email:** vaishnavirai2378@gmail.com
 
 ---
-
-*Analysis Period: 2023–2025 | Data Source: Simulated retail dataset | Tools: SQL Server · Python · Power BI*
